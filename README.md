@@ -8,3 +8,8 @@ Here is What I'm Working On!
 - 📫 How to reach me:Telegram:@floraisonaa, Instagram:@aydayll, Email:makenovaay23@gmail.com
 - ⚡ Fun fact: I'm baking pies, go swimming and do gymnastics
 
+<a href="https://github.com/Aydayll">
+<img align="center" alt="Ayday's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aydayll&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/Aydayll">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aydayll&layout=compact&theme=radical" />
+</a>
